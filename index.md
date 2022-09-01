@@ -4,5 +4,5 @@
 
 - Learning how to code properly
 - Learning how to use the terminal
-- Learning hoe to properly use CS tools
+- Learning how to properly use CS tools
 
